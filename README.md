@@ -1,2 +1,2 @@
 # Snakes Classifier
-Machine learning model to classify 35 breeds of snakes :snake:
+Machine learning model to classify 10 breeds of snakes :snake:
