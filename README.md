@@ -30,10 +30,16 @@ This notebook focus on preprocessing data that will be  use for test and trainin
 - ***REQUIREMENTS***:
     
 	 - [ ]  Run notebook locally in Windows
+
+####  03_data_pre-processed_dataset :
+This notebook is focus on explore pre proccesed dataset  from [Snake Breeds](https://www.kaggle.com/deividt/snake-breeds) in order to check if data was correctly pre-processed and it's ready for train the model.
+
+- ***REQUIREMENTS***:
+    
+	 - [ ]  Run notebook in google colab
 	 
 ## Datasets
 
 - **[Snakeclef2021 dataset](https://www.kaggle.com/deividt/snakeclef2021)** : Taken from [SnakeCLEF2021 - Snake Species Identification Challenge](https://www.aicrowd.com/challenges/snakeclef2021-snake-species-identification-challenge)
 
 - [**Snake-breeds**](https://www.kaggle.com/deividt/snake-breeds) : Pre-proccessed  dataset of Snakeclef2021 Dataset
--
